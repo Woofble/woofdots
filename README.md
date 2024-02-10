@@ -6,5 +6,5 @@ The aesthetic and minimal dots for Arch Hyprland
 sudo pacman -S git
 ```
 ```shell
-git clone https://github.com/Woofble/woofdots
+git clone https://github.com/Woofble/woofdots.git
 ```
