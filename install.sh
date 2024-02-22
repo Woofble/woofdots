@@ -4,7 +4,7 @@
 sudo pacman -Sy
 
 # Install required packages...
-sudo pacman -S git ly package3
+sudo pacman -S nano vim git unzip less wget curl neofetch htop
 
 # Install Hyprland...
 git clone --recursive https://github.com/hyprwm/Hyprland
