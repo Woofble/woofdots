@@ -28,6 +28,8 @@ cd ly
 make
 sudo make install installsystemd
 systemctl enable ly.service
+cd ..
+sudo rm -r ly
 
 # Install optional packages...
 sudo pacman -S firefox
