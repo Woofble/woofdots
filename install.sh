@@ -18,3 +18,6 @@ yay -S gdb ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libx
 git clone --recursive https://github.com/hyprwm/Hyprland
 cd Hyprland
 make all && sudo make install
+
+# Install optional packages...
+sudo pacman -S firefox
