@@ -4,7 +4,7 @@
 sudo pacman -Sy
 
 # Install required packages...
-sudo pacman -S nano vim git unzip less wget curl neofetch htop kitty
+sudo pacman -S nano vim git unzip less wget curl neofetch htop kitty gtk3
 
 # Install yay...
 git clone https://aur.archlinux.org/yay.git
@@ -20,6 +20,12 @@ git clone --recursive https://github.com/hyprwm/Hyprland
 cd Hyprland
 make all
 sudo make install
+
+cp -r 
+cp -r
+cp -r
+cp -r
+
 cd ..
 sudo rm -r Hyprland
 
