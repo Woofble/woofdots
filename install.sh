@@ -22,5 +22,12 @@ make all && sudo make install
 cd ..
 sudo rm -r Hyprland
 
+# Install Ly...
+git clone --recurse-submodules https://github.com/fairyglade/ly
+cd ly
+make
+sudo make install installsystemd
+systemctl enable ly.service
+
 # Install optional packages...
 sudo pacman -S firefox
