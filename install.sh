@@ -29,4 +29,4 @@ sudo pacman -S hyprpaper
 sudo pacman -S wofi
 
 # Install optional packages...
-sudo pacman -S firefox discord neofetch nano vim htop unzip less wget curl kitty gtk3 pipewire wireplumber
+sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget curl kitty gtk3 pipewire wireplumber
