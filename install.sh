@@ -4,7 +4,7 @@
 sudo pacman -Sy
 
 # Install required packages...
-sudo pacman -S nano vim git unzip less wget curl neofetch htop
+sudo pacman -S nano vim git unzip less wget curl neofetch htop kitty
 
 # Install yay...
 git clone https://aur.archlinux.org/yay.git
