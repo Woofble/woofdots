@@ -4,7 +4,7 @@
 sudo pacman -Sy
 
 # Install required packages...
-sudo pacman -S nano vim git unzip less wget curl neofetch htop base-devel
+sudo pacman -S nano vim git unzip less wget curl neofetch htop
 
 # Install yay...
 git clone https://aur.archlinux.org/yay.git
@@ -19,6 +19,8 @@ yay -S gdb ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libx
 git clone --recursive https://github.com/hyprwm/Hyprland
 cd Hyprland
 make all && sudo make install
+cd ..
+sudo rm -r Hyprland
 
 # Install optional packages...
 sudo pacman -S firefox
