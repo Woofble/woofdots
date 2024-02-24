@@ -1,6 +1,9 @@
 # woofdots
 The aesthetic and minimal dots for Arch Hyprland
 
+## Prerequisites
+A minimal Arch install is perferred.
+
 ## Installation
 ```shell
 sudo pacman -S git
