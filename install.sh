@@ -32,4 +32,5 @@ sudo pacman -S wofi
 sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget curl kitty gtk3 pipewire wireplumber
 
 # Copy configs...
-sudo cp -r .config/* ~/.config
+sudo cp -rf .config ~/
+sudo cp -rf .wallpapers ~/
