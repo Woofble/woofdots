@@ -15,6 +15,7 @@ sudo rm -r yay
 
 # Install Ly...
 sudo pacman -S ly
+systemctl enable ly.service
 
 # Install Hyprland...
 yay -S hyprland-git
