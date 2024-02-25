@@ -29,6 +29,9 @@ sudo pacman -S hyprpaper
 # Install Wofi...
 sudo pacman -S wofi
 
+# Install Cava...
+yay -S cava
+
 # Install optional packages...
 sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget curl kitty gtk3 pipewire wireplumber
 
