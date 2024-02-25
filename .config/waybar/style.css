@@ -105,7 +105,6 @@ button:hover {
 
 #battery {
     background-color: #ffffff;
-    color: #000000;
 }
 
 #battery.charging, #battery.plugged {
@@ -137,7 +136,6 @@ label:focus {
 
 #cpu {
     background-color: #2ecc71;
-    color: #000000;
 }
 
 #memory {
@@ -162,17 +160,14 @@ label:focus {
 
 #pulseaudio {
     background-color: #f1c40f;
-    color: #000000;
 }
 
 #pulseaudio.muted {
     background-color: #90b1b1;
-    color: #2a5c45;
 }
 
 #wireplumber {
     background-color: #fff0f5;
-    color: #000000;
 }
 
 #wireplumber.muted {
