@@ -78,10 +78,7 @@ button:hover {
 #wireplumber,
 #tray,
 #window,
-#workspaces {
-    margin: 0 4px;
-    background-color: #171717;
-}
+#workspaces {}
 
 /* If workspaces is the leftmost module, omit left margin */
 .modules-left > widget:first-child > #workspaces {
