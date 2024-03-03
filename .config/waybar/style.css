@@ -1,7 +1,7 @@
 * {
     border-radius: 4px;
     font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 window#waybar {
@@ -78,7 +78,6 @@ button:hover {
 #memory,
 #disk,
 #temperature,
-#backlight,
 #network,
 #pulseaudio,
 #wireplumber,
@@ -142,10 +141,6 @@ label:focus {
 }
 
 #disk {
-    background-color: #171717;
-}
-
-#backlight {
     background-color: #171717;
 }
 
