@@ -83,7 +83,6 @@ button:hover {
 #wireplumber,
 #tray,
 #mode,
-#idle_inhibitor,
 #window,
 #workspaces {
     margin: 0 4px;
@@ -187,15 +186,6 @@ label:focus {
 #tray > .needs-attention {
     -gtk-icon-effect: highlight;
     background-color: #eb4d4b;
-}
-
-#idle_inhibitor {
-    background-color: #2d3436;
-}
-
-#idle_inhibitor.activated {
-    background-color: #ecf0f1;
-    color: #2d3436;
 }
 
 #language {
