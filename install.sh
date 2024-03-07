@@ -33,7 +33,7 @@ sudo pacman -S wofi
 yay -S cava
 
 # Install optional packages...
-sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget curl kitty gtk3 pipewire wireplumber
+sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget curl kitty pipewire wireplumber xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
 
 # Copy configs...
 sudo cp -rf .config ~/
