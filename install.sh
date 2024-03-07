@@ -37,4 +37,3 @@ sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget cur
 
 # Copy configs...
 sudo cp -rf .config ~/
-sudo cp -rf .wallpapers ~/
