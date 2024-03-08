@@ -26,6 +26,9 @@ sudo pacman -S waybar
 # Install Font Awesome...
 sudo pacman -S otf-font-awesome
 
+# Install Nerd Font...
+sudo pacman -S nerd-fonts
+
 # Install Wofi...
 sudo pacman -S wofi
 
