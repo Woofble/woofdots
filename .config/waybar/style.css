@@ -23,11 +23,23 @@ window#waybar.chromium {}
 
 button {}
 
-button:hover {}
+button:hover {
+    box-shadow: none;
+    text-shadow: none;
+    background: none;
+    border: none;
+    transition: none;
+}
 
 #workspaces button {}
 
-#workspaces button:hover {}
+#workspaces button:hover {
+    box-shadow: none;
+    text-shadow: none;
+    background: none;
+    border: none;
+    transition: none;
+}
 
 #workspaces button.focused {}
 
