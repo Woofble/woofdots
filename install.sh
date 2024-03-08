@@ -23,9 +23,6 @@ yay -S hyprland-git
 # Install Waybar...
 sudo pacman -S waybar
 
-# Install Font Awesome...
-sudo pacman -S otf-font-awesome
-
 # Install Nerd Font...
 sudo pacman -S nerd-fonts
 
