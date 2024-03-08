@@ -29,6 +29,9 @@ sudo pacman -S otf-font-awesome
 # Install Wofi...
 sudo pacman -S wofi
 
+# Install Cmus...
+sudo pacman -S cmus
+
 # Install Cava...
 yay -S cava
 
