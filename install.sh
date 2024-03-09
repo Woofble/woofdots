@@ -42,7 +42,7 @@ yay -S cava
 curl -fsSL https://ollama.com/install.sh | sh
 
 # Install optional packages...
-sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget kitty pipewire wireplumber dolphin xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
+sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget kitty pipewire wireplumber dolphin grim wl-clipboard xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
 
 # Copy configs...
 sudo cp -rf .config ~/
