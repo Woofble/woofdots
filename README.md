@@ -23,6 +23,7 @@ chmod u+x install.sh
 | :--  | :-- |
 | <kbd>Super</kbd> + <kbd>Q</kbd> | launch kitty terminal
 | <kbd>Super</kbd> + <kbd>F</kbd> | launch firefox
+| <kbd>Super</kbd> + <kbd>E</kbd> | launch Dolphin
 | <kbd>F1</kbd> | mute audio output (toggle)
 | <kbd>F2</kbd> | decrease volume (hold)
 | <kbd>F3</kbd> | increase volume (hold)
