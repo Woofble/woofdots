@@ -38,9 +38,6 @@ sudo pacman -S cmus
 # Install Cava...
 yay -S cava
 
-# Install Ollama...
-curl -fsSL https://ollama.com/install.sh | sh
-
 # Install optional packages...
 sudo pacman -S firefox discord neofetch nano vim neovim htop unzip less wget kitty pipewire wireplumber dolphin grim wl-clipboard xdg-desktop-portal-hyprland xdg-desktop-portal-gtk
 
